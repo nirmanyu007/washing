@@ -1,0 +1,54 @@
+.bg{
+    background: url('D:/react/car_wash/src/images/unsplash_m3m-lnR90uM.png');
+    width: 100vw;
+    height: 100vh;
+    background-size: 100% 100%;
+    border: 1px solid transparent;
+}
+.back{
+    padding-top: -140px;
+}
+.btn{
+    padding-top: 25px;
+}
+.btn2{
+    background-color: transparent;
+    color: white;
+    border: 2px solid #61B2E4;
+    border-radius: 19px;
+    padding: 8px 25px 8px 25px;
+    font-size: 20px;
+    
+}
+.dome{
+    margin-top: -80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.line{
+    border-bottom: 0px;
+    padding-bottom: 15px;
+
+}
+.jj{
+    border-bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pen{
+    display: flex;
+    justify-content: center;
+}
+.gg{
+    margin-left: 50px;
+   
+}
+.hello{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.width{
+    padding-left: 5vw;
+}

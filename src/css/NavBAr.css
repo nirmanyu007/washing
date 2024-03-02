@@ -1,0 +1,35 @@
+.bg2{
+    padding-top: 33px;
+}
+.page{
+    flex: 1;
+    margin: auto !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 635px;
+    height: 78px;
+    background-color: black;
+    border: 5px solid #0C293D;
+    border-radius: 33px;
+    box-shadow: 0px 0px 4px 4px #59B4C3;
+   
+    
+    
+}
+.text{
+    flex: 1;
+      
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.hello{
+    color: #fff;
+    text-decoration: none;
+    
+    
+}
+.active{
+    box-shadow: 0px 1px #59B4C3;
+}
